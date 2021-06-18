@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+openrouteservice
+folium
+geopy
+import geocoder
+transport_co2
+voila
