@@ -4,6 +4,6 @@ seaborn
 openrouteservice
 folium
 geopy
-import geocoder
+geocoder
 transport_co2
 voila

@@ -1,4 +1,4 @@
 # Vaccins
 Trouver les centres de vaccins les plus proches de vous
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/polal2is/Vaccins.git/HEAD?urlpath=voila%2Frender%2FVaccin.ipynb)
