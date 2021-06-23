@@ -1,9 +1,6 @@
 pandas
 numpy
-seaborn
 openrouteservice
 folium
 geopy
-geocoder
-transport_co2
 voila
